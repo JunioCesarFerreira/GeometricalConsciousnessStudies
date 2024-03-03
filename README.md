@@ -1,2 +1,4 @@
 # GeometricalConsciousnessStudies
- GeometricalConsciousnessStudies is a dedicated repository for exploring the intersection of geometry, psychology, and consciousness as inspired by B. W. Betts' pioneering work, 'Geometrical Psychology.'
+ GeometricalConsciousnessStudies is a repository dedicated solely to taking a mathematical approach to the notation used in the book 'Geometrical Psychology' by the authors B. W. Betts and L. S. Cook.
+
+[Notebook](./GeometricalCurves.ipynb)
